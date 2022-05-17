@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rethegreat/my_portfolio.git/static/css/main.073c9b0a.css",
+    "main.js": "/rethegreat/my_portfolio.git/static/js/main.8c4ae211.js",
+    "static/js/787.128fc6e9.chunk.js": "/rethegreat/my_portfolio.git/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.svg": "/rethegreat/my_portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rethegreat/my_portfolio.git/index.html",
+    "main.073c9b0a.css.map": "/rethegreat/my_portfolio.git/static/css/main.073c9b0a.css.map",
+    "main.8c4ae211.js.map": "/rethegreat/my_portfolio.git/static/js/main.8c4ae211.js.map",
+    "787.128fc6e9.chunk.js.map": "/rethegreat/my_portfolio.git/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c4ae211.js"
+  ]
+}
